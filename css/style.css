@@ -561,11 +561,11 @@ header {
     grid-template-areas:
       "img-1 paragraph-1"
       "paragraph-2 img-2"
-      "img-3 paragraph-3"
-      "paragraph-4 img-4"
+      "img-7 paragraph-7"
+      "paragraph-3 img-3"
       "img-5 paragraph-5"
       "paragraph-6 img-6"
-      "img-7 paragraph-7"
+      "img-4 paragraph-4"
       "paragraph-8 img-8";
     grid-column-gap: 4em;
     grid-row-gap: 4em;
